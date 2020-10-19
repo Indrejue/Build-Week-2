@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+xgboost = "*"
+pdpbox = "*"
+shap = "*"
+seaborn = "*"
+eli5 = "*"
 
 [dev-packages]
 
